@@ -1,0 +1,9 @@
+.build
+dist
+.next
+node_modules
+
+# config files
+*.yaml
+*.yml
+*.md
